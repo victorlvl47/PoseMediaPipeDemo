@@ -4,3 +4,4 @@
 # except this files
 !.gitignore
 !PoseEstimationMin.py
+!PoseModule.py
