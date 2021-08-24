@@ -1,0 +1,6 @@
+# Ignore everything...
+*
+
+# except this files
+!.gitignore
+!PoseEstimationMin.py
