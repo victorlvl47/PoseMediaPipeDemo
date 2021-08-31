@@ -3,7 +3,7 @@ import numpy as np
 import time
 import PoseModule as pm
 
-cap = cv2.VideoCapture("PoseVideos/8.mp4")
+cap = cv2.VideoCapture("> PATH TO YOUR VIDEO HERE <")
 detector = pm.poseDetector()
 
 count = 0
